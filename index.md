@@ -1,5 +1,5 @@
 #Tiggers Mobile Welding.
 
-[Home](about-us.php)
-[About](about-us.php
-[Contact](contact-us.php
+[Home](about-us.md)
+[About](about-us.md)
+[Contact](contact-us.md)
