@@ -1,5 +1,5 @@
 # Tiggers Mobile Welding.
 
-[Home](about-us.md)
+[Home](index.md)
 [About](about-us.md)
 [Contact](contact-us.md)
